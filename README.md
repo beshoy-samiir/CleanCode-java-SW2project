@@ -1,5 +1,6 @@
 # CleanCode-java-SW2project
 Make a Clean Code for an old version of our code in any previous project through the faculty years By following the SOLID Principle:
+
 S : Single Responsibility Principle (SRP) [Solves one problem - Single reason to change] To make every method only related to the class be in the class and also every method does only one single thing.
 
 O : Open Closed Principle (OCP) [Open for extension - Closed for modification] I could make it through Abstract class and extends the methods for every different type of needed class OR Make an interface and implements the methods later as needed (Which I used here).
